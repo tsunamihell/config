@@ -3,7 +3,7 @@ allow-lan: false
 mode: Global
 log-level: silent
 external-controller: 127.0.0.1:9090
-dns:
+             dns:
   enable: true
   ipv6: false
   enhanced-mode: fake-ip
