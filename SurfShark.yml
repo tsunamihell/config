@@ -258,7 +258,7 @@ proxy-groups:
   - name: 🔥 Auto
     type: url-test
     proxies:
-      - BE 🇧🇪 Brussels 1
+      - BE 🇧🇪 Brussels 10
       - BE 🇧🇪 Brussels 2
       - BE 🇧🇪 Brussels 3
       - BE 🇧🇪 Brussels 4
