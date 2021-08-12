@@ -756,7 +756,7 @@ proxy-groups:
     proxies:
       - REJECT
       - DIRECT
-
+##1
 rules:
 
   - DOMAIN-SUFFIX,ad.com,🚫 Intercept
